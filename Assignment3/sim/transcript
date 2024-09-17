@@ -1,0 +1,7 @@
+# vsim -vopt -c -do "run -all; exit" ram.dual_port_ram_tb 
+# Start time: 12:53:56 on Sep 02,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'ram' at "ram".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 12:53:56 on Sep 02,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
