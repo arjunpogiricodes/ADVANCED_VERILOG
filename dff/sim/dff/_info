@@ -1,0 +1,67 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f vlog 2022.1_2 2022.04, Apr  2 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home1/B110/PogiRiArjun/VLSI_RN/Advanced_verilog/lab2/dff/sim
+T_opt
+!s110 1725257579
+V`ZmNQlCJ`n6<DGha;gTZg3
+04 6 4 work tb_dff fast 0
+=1-000ae431a4f1-66d5576b-9e830-339bb3
+R0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work dff
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2022.1_2;75
+vdff
+Z3 !s110 1725257578
+!i10b 1
+!s100 T3;7nf28A0FmJV3obg=6O3
+I_D>dzKVkgd8=0jDcRYnJR3
+R1
+w1721035945
+8../rtl/dff.v
+F../rtl/dff.v
+!i122 0
+L0 23 26
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2022.1_2;75
+r1
+!s85 0
+31
+Z6 !s108 1725257578.000000
+Z7 !s107 ../tb/tb_dff.v|../rtl/dff.v|
+Z8 !s90 -work|dff|../rtl/dff.v|../tb/tb_dff.v|
+!i113 0
+Z9 o-work dff -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_dff
+R3
+!i10b 1
+!s100 oBb551dRKNT_>]2YX78KE1
+I9mIdiMdk1NDLCdiUB47ED0
+R1
+w1725257548
+8../tb/tb_dff.v
+F../tb/tb_dff.v
+!i122 0
+L0 23 146
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2

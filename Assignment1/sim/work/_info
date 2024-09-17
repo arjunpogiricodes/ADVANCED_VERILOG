@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2022.1_2 2022.04, Apr  2 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home1/B110/PogiRiArjun/VLSI_RN/Advanced_verilog/Assignment/Assignment1/sim
+vvending_machine
+Z1 !s110 1725248316
+!i10b 1
+!s100 k8@;a>^A;g3IJi]0kczWk2
+I;N[J3]ba0cdC=kR<dYKE@3
+R0
+w1725206547
+8../rtl/vending_machine.v
+F../rtl/vending_machine.v
+!i122 0
+L0 17 143
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2022.1_2;75
+r1
+!s85 0
+31
+Z4 !s108 1725248316.000000
+!s107 ../tb/vending_machine_tb.v|../rtl/vending_machine.v|
+Z5 !s90 -work|work|../rtl/vending_machine.v|../tb/vending_machine_tb.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vvending_machine_tb
+R1
+!i10b 1
+!s100 zdG3Tcee96L46h05kFB6b0
+IT9TQK@Gb^^@;jT;a?ZVVP3
+R0
+w1725206559
+8../tb/vending_machine_tb.v
+F../tb/vending_machine_tb.v
+!i122 0
+L0 5 70
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z8 !s107 ../tb/vending_machine_tb.v|../rtl/vending_machine.v|
+R5
+!i113 0
+R6
+R7
